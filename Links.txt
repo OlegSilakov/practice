@@ -1,0 +1,39 @@
+Ссылки:
+
+1) http://exercism.io/ - сборник упражнений exercism
+2) https://github.com/mokevnin/coursify/wiki/Git - статья про гит
+3) https://github.com/mokevnin/coursify/wiki/Code-Design - принципы ментального программирования
+4) http://pgexercises.com/ - упражнения для Постгресс
+5) http://docker.io/ - докер
+6) https://vagrantcloud.com/ - сборник боксов для вагранта
+7) https://www.nitrous.io/ - виртуальная машина онлайн
+8) https://c9.io/ - виртуальная IDE 
+9) https://github.com/mokevnin/coursify/wiki/Books - сборник книг от Кирилла
+10) https://hexlet.org/ - онлайн курсы и лекции
+11) https://www.shortcutfoo.com/ - тренировка горячих клавиш
+12) https://help.github.com/articles/using-pull-requests - документация как делать pull request
+13) http://7vn.ru/blog/2011/11/18/object-model/ - объектная модель Руби
+14) http://www.youtube.com/watch?v=EEq1wdM2M2w - доклад ментальное программирование(Кирилл)
+15) http://habrahabr.ru/post/125999/ - статья Хабр про пулл реквест
+16) https://coderwall.com/welcome - сервис, показывающий активность на гитхабе
+17) http://ru.wikipedia.org/wiki/Непрерывная_интеграция - непрерывная интеграция(Википедия)
+18) http://travis-ci.com/ - Тревис С
+19) http://habrahabr.ru/post/140344/ - статья про Тревис
+20) http://clojure.org/getting_started - Кложуре
+21) http://en.wikipedia.org/wiki/Homoiconicity - Гомология в компьютерных языках(Википедия)
+22) https://github.com/bbatsov/clojure-style-guide - Гид по стилю Кложуре
+23) http://ru.wikipedia.org/wiki/Вывод_типов - вывод типов(Википедия)
+24) http://habrahabr.ru/post/215807/ - лямбда исчисления
+25) http://ru.wikipedia.org/wiki/Чистота_функции - чистота функции(Википедия)
+26) https://airbrake.io - мониторинг ошибок
+27) http://nashbridges.me/gem-for-end-user - гем глазами потребителя(про структура гема)
+28) https://coveralls.io/ - Покрытие кода
+29) https://codeclimate.com/ - Кодеклаймит
+30) https://github.com/clojure/core.contracts - пример контрактного программирования на кложуре
+31) https://github.com/dmalikov - Дмитрий Маликов на гитхаб:)
+32) http://habrahabr.ru/post/113585/ - персистентные структуры данных
+33) https://github.com/pzol/monadic - монада Maybe
+34) http://clojurescriptkoans.com - кложуре скрипт Коаны
+35) http://alexott.net/ru/clojure/clojure-intro/ - введение в кложуре от Алекса
+36) https://github.com/clojure/clojurescript/wiki/Sublime-Text-2 - нужные плагины для sublime text for clojure
+37) http://habrahabr.ru/post/189320/ - GIL в Руби
