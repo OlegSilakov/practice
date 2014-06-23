@@ -39,3 +39,6 @@
 37) http://habrahabr.ru/post/189320/ - GIL в Руби
 38) Архитектура корпоративных программных приложений Фаулер
 39) http://newstar.rinet.ru/~goga/sicp/sicp.pdf - SICP книга
+40) http://clojure.org/lazy
+41) https://github.com/levand/quiescent/blob/master/src/quiescent/dom.clj вот так может выглядеть код на кложе), это макросы
+42) http://clojuredocs.org/clojure_core/clojure.core/for  list comprehension
