@@ -37,3 +37,5 @@
 35) http://alexott.net/ru/clojure/clojure-intro/ - введение в кложуре от Алекса
 36) https://github.com/clojure/clojurescript/wiki/Sublime-Text-2 - нужные плагины для sublime text for clojure
 37) http://habrahabr.ru/post/189320/ - GIL в Руби
+38) Архитектура корпоративных программных приложений Фаулер
+39) http://newstar.rinet.ru/~goga/sicp/sicp.pdf - SICP книга
