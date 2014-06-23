@@ -42,3 +42,5 @@
 40) http://clojure.org/lazy
 41) https://github.com/levand/quiescent/blob/master/src/quiescent/dom.clj вот так может выглядеть код на кложе), это макросы
 42) http://clojuredocs.org/clojure_core/clojure.core/for  list comprehension
+43) http://stamina.ru/ - тренажер для слепого метода
+44) http://ergosolo.ru/ - соло на клавиатуре, слепой метод
