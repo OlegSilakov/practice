@@ -11,6 +11,8 @@ practice
 * [Git Rebase: руководство по использованию](http://habrahabr.ru/post/161009/)
 * [Думай как Git, руководство по Git](http://web.archive.org/web/20131019113913/http://git.geekjob.ru/epic-mode/)
 * [current branch in bash](http://stackoverflow.com/questions/4133904/ps1-line-with-git-current-branch-and-colors)
+* [Интерактивное ребазирования](http://uleming.github.io/gitbook/4_Интерактивное_ребазирования.html)
+* [Инструменты Git - Перезапись истории](http://git-scm.com/book/ru/Инструменты-Git-Перезапись-истории)
 
 показывает текущую ветку git
 ~~~ shell
@@ -26,6 +28,7 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [10 «однострочников», которые произведут впечатление на ваших друзей](http://habrahabr.ru/post/120665/)
 * [прокачка ruby](http://tony.pitluga.com/2011/08/08/destructuring-with-ruby.html)
 * [Lazy](http://ruby-doc.org/core-2.0/Enumerator/Lazy.html)
+* [Вникаем в метаклассы Ruby](http://habrahabr.ru/post/143990/)
 
 ## Clojure
 
@@ -58,6 +61,10 @@ env | grep PATH
 ### Vagrant
 
 * [сборник боксов для вагранта](https://vagrantcloud.com/)
+
+### Ansible
+
+* [Система управления Ansible](http://habrahabr.ru/company/selectel/blog/196620/)
 
 ### Books
 
@@ -102,9 +109,11 @@ env | grep PATH
 * [Персистентные структуры](http://habrahabr.ru/post/113585/)
 * [Записки программиста](http://eax.me/)
 * [блог от матерого c# программиста](http://sergeyteplyakov.blogspot.ru/)
+* [Функции первого класса](http://ru.wikipedia.org/wiki/Функции_первого_класса)
+
+### TextEditor
 
 #### Sublime
-
 plugins:
 * http://dev.clojure.org/display/doc/Getting+Started+With+Sublime+Text+2
 * http://sublimerepl.readthedocs.org/en/latest/
@@ -118,3 +127,6 @@ plugins:
 * https://github.com/circleci/clj-yaml
 * https://github.com/xsc/lein-ancient
 
+#### Vim 
+
+* [Vim](http://ru.wikibooks.org/wiki/Vim)
