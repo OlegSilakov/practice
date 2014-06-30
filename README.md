@@ -117,6 +117,10 @@ env | grep PATH
 
 ### TextEditor
 
+#### Light Table
+* [Light Table](http://www.lighttable.com/)
+* [Install Light Table IDE and Create Launcher in Ubuntu Unity](http://ubuntuhandbook.org/index.php/2013/09/install-light-table-ide-create-launcher-ubuntu/)
+
 #### Sublime
 plugins:
 * http://dev.clojure.org/display/doc/Getting+Started+With+Sublime+Text+2
