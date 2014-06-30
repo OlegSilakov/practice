@@ -86,6 +86,10 @@ env | grep PATH
 * [виртуальная машина онлайн](https://www.nitrous.io/)
 * [Покрытие кода](https://coveralls.io/)
 * [Кодеклаймит](https://codeclimate.com/)
+* [Tengs](http://tengs.ru/)
+* [codementor](https://www.codementor.io/)
+* [codingforinterviews](http://codingforinterviews.com/)
+* http://d.pr/i/ftis
 
 ### Клава
 
