@@ -69,6 +69,8 @@ env | grep PATH
 ### Books
 
 * [сборник книг от Кирилла](https://github.com/mokevnin/coursify/wiki/Books)
+* [Цель. Процесс непрерывного совершенствования](http://www.ozon.ru/context/detail/id/4341360/)
+* [Бережливый стартап](http://ru.wikipedia.org/wiki/Бережливый_стартап)
 
 ### Video
 
@@ -114,6 +116,7 @@ env | grep PATH
 * [Записки программиста](http://eax.me/)
 * [блог от матерого c# программиста](http://sergeyteplyakov.blogspot.ru/)
 * [Функции первого класса](http://ru.wikipedia.org/wiki/Функции_первого_класса)
+* [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
 
 ### TextEditor
 
