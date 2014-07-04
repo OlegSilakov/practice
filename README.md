@@ -72,6 +72,7 @@ env | grep PATH
 * [сборник книг от Кирилла](https://github.com/mokevnin/coursify/wiki/Books)
 * [Цель. Процесс непрерывного совершенствования](http://www.ozon.ru/context/detail/id/4341360/)
 * [Бережливый стартап](http://ru.wikipedia.org/wiki/Бережливый_стартап)
+* [Предметно-ориентированные языки программирования](http://www.ozon.ru/context/detail/id/6967089/)
 
 ### Video
 
@@ -92,6 +93,7 @@ env | grep PATH
 * [Tengs](http://tengs.ru/)
 * [codementor](https://www.codementor.io/)
 * [codingforinterviews](http://codingforinterviews.com/)
+* [Рефакторинг](http://refactoring.guru/)
 * http://d.pr/i/ftis
 
 ### Клава
