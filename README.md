@@ -69,6 +69,8 @@ env | grep PATH
 ### Books
 
 * [сборник книг от Кирилла](https://github.com/mokevnin/coursify/wiki/Books)
+* [Цель. Процесс непрерывного совершенствования](http://www.ozon.ru/context/detail/id/4341360/)
+* [Бережливый стартап](http://ru.wikipedia.org/wiki/Бережливый_стартап)
 
 ### Video
 
@@ -86,6 +88,10 @@ env | grep PATH
 * [виртуальная машина онлайн](https://www.nitrous.io/)
 * [Покрытие кода](https://coveralls.io/)
 * [Кодеклаймит](https://codeclimate.com/)
+* [Tengs](http://tengs.ru/)
+* [codementor](https://www.codementor.io/)
+* [codingforinterviews](http://codingforinterviews.com/)
+* http://d.pr/i/ftis
 
 ### Клава
 
@@ -110,8 +116,13 @@ env | grep PATH
 * [Записки программиста](http://eax.me/)
 * [блог от матерого c# программиста](http://sergeyteplyakov.blogspot.ru/)
 * [Функции первого класса](http://ru.wikipedia.org/wiki/Функции_первого_класса)
+* [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
 
 ### TextEditor
+
+#### Light Table
+* [Light Table](http://www.lighttable.com/)
+* [Install Light Table IDE and Create Launcher in Ubuntu Unity](http://ubuntuhandbook.org/index.php/2013/09/install-light-table-ide-create-launcher-ubuntu/)
 
 #### Sublime
 plugins:
