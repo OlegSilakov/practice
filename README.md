@@ -42,6 +42,7 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [Clojure Alchemy: Reading, Evaluation, and Macros](http://www.braveclojure.com/read-and-eval/)
 * [Замена стандартного вывода о ошибках](https://github.com/mmcgrana/clj-stacktrace)
 * [Lazy](http://clojure.org/lazy)
+* [Clojure — последовательности (sequences)](http://www.pvsm.ru/clojure/21092)
 * http://www.lighttable.com/
 
 
@@ -117,6 +118,7 @@ env | grep PATH
 * [блог от матерого c# программиста](http://sergeyteplyakov.blogspot.ru/)
 * [Функции первого класса](http://ru.wikipedia.org/wiki/Функции_первого_класса)
 * [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
+* [Категория Hask](http://habrahabr.ru/post/133277/)
 
 ### TextEditor
 
