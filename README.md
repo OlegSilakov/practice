@@ -50,6 +50,7 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 
 * [Основы Linux от основателя Gentoo](http://habrahabr.ru/post/99041/)
 * [bash (wikipedia)](http://ru.wikipedia.org/wiki/Bash)
+* [15 малоизвестных команд Linux](http://habrahabr.ru/post/228999/)
 
 Установка PATH
 ~~~ shell
