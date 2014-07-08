@@ -4,6 +4,7 @@ practice
 ## Git
 
 * [gitconfig](https://github.com/mokevnin/dotfiles/blob/master/gitconfig)
+* [Set up ssh for GitBash](https://confluence.atlassian.com/display/BITBUCKET/Set+up+SSH+for+Git)
 * [How to update GitHub forked repository?](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository)
 * [статья про гит](https://github.com/mokevnin/coursify/wiki/Git)
 * [документация как делать pull request](https://help.github.com/articles/using-pull-requests)
