@@ -33,6 +33,7 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [прокачка ruby](http://tony.pitluga.com/2011/08/08/destructuring-with-ruby.html)
 * [Lazy](http://ruby-doc.org/core-2.0/Enumerator/Lazy.html)
 * [Вникаем в метаклассы Ruby](http://habrahabr.ru/post/143990/)
+* [Занимательное функциональное программирование в Ruby](http://habrahabr.ru/post/148076/)
 
 ## Clojure
 
