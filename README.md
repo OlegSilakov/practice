@@ -16,6 +16,7 @@ practice
 * [current branch in bash](http://stackoverflow.com/questions/4133904/ps1-line-with-git-current-branch-and-colors)
 * [Интерактивное ребазирования](http://uleming.github.io/gitbook/4_Интерактивное_ребазирования.html)
 * [Инструменты Git - Перезапись истории](http://git-scm.com/book/ru/Инструменты-Git-Перезапись-истории)
+* [Current Git branch name in command prompt](http://martinvalasek.com/blog/current-git-branch-name-in-command-prompt)
 
 показывает текущую ветку git
 ~~~ shell
