@@ -151,3 +151,4 @@ plugins:
 #### Vim 
 
 * [Vim](http://ru.wikibooks.org/wiki/Vim)
+* [Vundle. Менеджер плагинов для Vim](http://habrahabr.ru/post/148549/)
