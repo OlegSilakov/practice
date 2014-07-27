@@ -153,3 +153,4 @@ plugins:
 * [Vim](http://ru.wikibooks.org/wiki/Vim)
 * [Vundle. Менеджер плагинов для Vim](http://habrahabr.ru/post/148549/)
 * [Макросы в Vim — это просто ](http://habrahabr.ru/post/230487/)
+* [Плагины VIM о которых следует знать](http://habrahabr.ru/post/114813/)
