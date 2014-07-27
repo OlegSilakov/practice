@@ -34,6 +34,8 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [Lazy](http://ruby-doc.org/core-2.0/Enumerator/Lazy.html)
 * [Вникаем в метаклассы Ruby](http://habrahabr.ru/post/143990/)
 * [Занимательное функциональное программирование в Ruby](http://habrahabr.ru/post/148076/)
+* [Rails для начинающих](http://rusrails.ru/getting-started-with-rails)
+* [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
 
 ## Clojure
 
