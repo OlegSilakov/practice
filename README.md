@@ -36,6 +36,7 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [Занимательное функциональное программирование в Ruby](http://habrahabr.ru/post/148076/)
 * [Rails для начинающих](http://rusrails.ru/getting-started-with-rails)
 * [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+* [Rails for zombies](http://railsforzombies.org/)
 
 ## Clojure
 
