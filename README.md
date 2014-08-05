@@ -4,7 +4,11 @@ practice
 ## Git
 
 * [gitconfig](https://github.com/mokevnin/dotfiles/blob/master/gitconfig)
+* [Set up ssh for GitBash](https://confluence.atlassian.com/display/BITBUCKET/Set+up+SSH+for+Git)
+* [Simple tool to 'accept theirs' or 'accept mine'](http://stackoverflow.com/questions/914939/simple-tool-to-accept-theirs-or-accept-mine-on-a-whole-file-using-git)
 * [How to update GitHub forked repository?](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository)
+* [git rm all deleted files](http://stackoverflow.com/questions/492558/removing-multiple-files-from-a-git-repo-that-have-already-been-deleted-from-disk)
+* [Git pull с ключом --rebase](http://jumanji.name/git-pull-rebase-key/)
 * [статья про гит](https://github.com/mokevnin/coursify/wiki/Git)
 * [документация как делать pull request](https://help.github.com/articles/using-pull-requests)
 * [статья Хабр про пулл реквест](http://habrahabr.ru/post/125999/)
@@ -13,6 +17,7 @@ practice
 * [current branch in bash](http://stackoverflow.com/questions/4133904/ps1-line-with-git-current-branch-and-colors)
 * [Интерактивное ребазирования](http://uleming.github.io/gitbook/4_Интерактивное_ребазирования.html)
 * [Инструменты Git - Перезапись истории](http://git-scm.com/book/ru/Инструменты-Git-Перезапись-истории)
+* [Current Git branch name in command prompt](http://martinvalasek.com/blog/current-git-branch-name-in-command-prompt)
 
 показывает текущую ветку git
 ~~~ shell
@@ -29,6 +34,10 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [прокачка ruby](http://tony.pitluga.com/2011/08/08/destructuring-with-ruby.html)
 * [Lazy](http://ruby-doc.org/core-2.0/Enumerator/Lazy.html)
 * [Вникаем в метаклассы Ruby](http://habrahabr.ru/post/143990/)
+* [Занимательное функциональное программирование в Ruby](http://habrahabr.ru/post/148076/)
+* [Rails для начинающих](http://rusrails.ru/getting-started-with-rails)
+* [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+* [Rails for zombies](http://railsforzombies.org/)
 
 ## Clojure
 
@@ -42,6 +51,7 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [Clojure Alchemy: Reading, Evaluation, and Macros](http://www.braveclojure.com/read-and-eval/)
 * [Замена стандартного вывода о ошибках](https://github.com/mmcgrana/clj-stacktrace)
 * [Lazy](http://clojure.org/lazy)
+* [Clojure — последовательности (sequences)](http://www.pvsm.ru/clojure/21092)
 * http://www.lighttable.com/
 
 
@@ -49,6 +59,7 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 
 * [Основы Linux от основателя Gentoo](http://habrahabr.ru/post/99041/)
 * [bash (wikipedia)](http://ru.wikipedia.org/wiki/Bash)
+* [15 малоизвестных команд Linux](http://habrahabr.ru/post/228999/)
 
 Установка PATH
 ~~~ shell
@@ -71,6 +82,7 @@ env | grep PATH
 * [сборник книг от Кирилла](https://github.com/mokevnin/coursify/wiki/Books)
 * [Цель. Процесс непрерывного совершенствования](http://www.ozon.ru/context/detail/id/4341360/)
 * [Бережливый стартап](http://ru.wikipedia.org/wiki/Бережливый_стартап)
+* [Предметно-ориентированные языки программирования](http://www.ozon.ru/context/detail/id/6967089/)
 
 ### Video
 
@@ -91,6 +103,7 @@ env | grep PATH
 * [Tengs](http://tengs.ru/)
 * [codementor](https://www.codementor.io/)
 * [codingforinterviews](http://codingforinterviews.com/)
+* [Рефакторинг](http://refactoring.guru/)
 * http://d.pr/i/ftis
 
 ### Клава
@@ -117,6 +130,7 @@ env | grep PATH
 * [блог от матерого c# программиста](http://sergeyteplyakov.blogspot.ru/)
 * [Функции первого класса](http://ru.wikipedia.org/wiki/Функции_первого_класса)
 * [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
+* [Категория Hask](http://habrahabr.ru/post/133277/)
 
 ### TextEditor
 
@@ -141,3 +155,7 @@ plugins:
 #### Vim 
 
 * [Vim](http://ru.wikibooks.org/wiki/Vim)
+* [Vundle. Менеджер плагинов для Vim](http://habrahabr.ru/post/148549/)
+* [Макросы в Vim — это просто ](http://habrahabr.ru/post/230487/)
+* [Плагины VIM о которых следует знать](http://habrahabr.ru/post/114813/)
+* [Effective Rails Development with Vim](http://www.sitepoint.com/effective-rails-development-vim/)
