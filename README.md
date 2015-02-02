@@ -95,7 +95,7 @@ env | grep PATH
 * [докер](http://docker.io/)
 * [сервис, показывающий активность на гитхабе](https://coderwall.com/welcome)
 * [сборник упражнений exercism](http://exercism.io/)
-* [Тревис С](http://travis-ci.com/)
+* [Тревис СI](http://travis-ci.com/)
 * [виртуальная IDE ](https://c9.io/)
 * [виртуальная машина онлайн](https://www.nitrous.io/)
 * [Покрытие кода](https://coveralls.io/)
